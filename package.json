@@ -1,0 +1,11 @@
+{
+  "name": "iris",
+  "description": "React Component Commons",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "react": "^0.13.3"
+  }
+}
